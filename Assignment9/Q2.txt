@@ -1,0 +1,5 @@
+1: align-items - itis used to change the elements alignment vertically
+2: justift-content - it is used to change the elements alignment horizentally
+3: gap- used to define gap between the elements
+4: flex-direction: used to chande the direction of the elements like row,column etc.
+5: flex-wrap: used to wrap the elements whenn enough space is not available for the elements to fit in just one line

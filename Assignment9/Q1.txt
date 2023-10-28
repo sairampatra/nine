@@ -1,0 +1,9 @@
+FLEX BOX
+i: it is used when we want to put elements in a line 
+ii: it used in things like creating menus and centiring things
+iii: helps to adjust the things in available space
+
+GRID
+i: it i used when we want put iems in both rows and columns
+ii: great to make complex layouts like website with items arranged in rows and columns
+iii: lets you put things in a specific order in a grid
